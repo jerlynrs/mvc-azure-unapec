@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MvcAzureUnapec")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a505842a1b57130d49aa8cd64bf8ea3fbf094cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("MvcAzureUnapec")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MvcAzureUnapec")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
